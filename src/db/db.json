@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "id": "2028e6cc-45ae-40ec-a68a-c5f186d6d687",
+  "name": "Dr. Arturo Reichert",
+  "phone": "203-203-2609 x793",
+  "email": "Liza.Walker21@yahoo.com",
+  "job": "Direct Implementation Producer"
+ },
+ {
+  "id": "67896750-b09b-4d19-b254-40843e6d76d9",
+  "name": "Jose Fahey",
+  "phone": "(278) 861-6446 x80734",
+  "email": "Melyna.Huel5@yahoo.com",
+  "job": "Legacy Metrics Assistant"
+ },
+ {
+  "id": "54802225-690f-4645-9778-1e636b21511c",
+  "name": "Troy Wuckert-Leuschke",
+  "phone": "475.236.6420",
+  "email": "Wallace_Glover12@yahoo.com",
+  "job": "National Security Agent"
+ },
+ {
+  "id": "d4388150-d945-4f60-8fbb-96fabf224106",
+  "name": "Anita Doyle",
+  "phone": "1-646-740-3571 x60419",
+  "email": "Monica_Stracke76@yahoo.com",
+  "job": "Direct Branding Specialist"
+ }
+]
